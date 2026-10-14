@@ -1,0 +1,26 @@
+# 敏感信息 —— 绝不入库
+.env
+.env.*
+!.env.example
+
+# 业务数据 —— 绝不入库（本地社媒内容 + 客户线索）
+数据/
+lighthouse/数据/
+*.json
+!lighthouse/示例配置/*.json
+
+# 浏览器 profile / 登录态
+profile/
+*.cookie
+cookies.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 编辑器
+.vscode/
+.idea/
+.DS_Store

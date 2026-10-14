@@ -1,0 +1,6 @@
+# Lighthouse Agent Social Ops · 依赖
+# Python 3.10+
+
+aiotieba==4.7.1
+python-dotenv>=1.0.0
+playwright>=1.40.0
