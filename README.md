@@ -1,10 +1,43 @@
-# Lighthouse Agent Social Ops
+# 灯塔 Agent 社媒运营工作台
 
-![Build Status](https://img.shields.io/badge/Build-Ready-Green?style=flat-square)
-![Documentation](https://img.shields.io/badge/Docs-Ready-Blue?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-orange?style=flat-square)
+### Lighthouse Agent · Social Media Operations Workbench
 
-> 本项目是一个用于 **国内本地卡商/宽带运营** 的本地工作台，专注 **贴吧获客**（百度贴吧），辅以小红书/抖音的内容积累。
+![Build](https://img.shields.io/badge/Build-Ready-34d399?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3.10+-3ddcff?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-8b5cf6?style=flat-square)
+![Local First](https://img.shields.io/badge/Local--First-数据不出机-f472b6?style=flat-square)
+
+> 面向 **本地号卡 / 宽带业务** 的社媒获客工作台。  
+> 贴吧监控采集 · 意向智能分类 · 同行噪声过滤 · 内容生成 · 浏览器会话管理 · 风控红线硬门禁。
+>
+> **原则：采集归 AI，成交归人。**
+
+🌐 **在线主页**：https://matou1118.github.io/lighthouse-agent-social-ops/
+
+---
+
+## 界面预览
+
+工作台为深色极光主题，数据看板 + 账号矩阵 + 内容资产 + 全网平台矩阵。
+以下截图取自 **演示数据模式**（合成数据，不含真实账号与客户信息）。
+
+| 总览看板 | 账号矩阵 |
+|---|---|
+| ![总览](docs/screenshots/01_overview.png) | ![账号矩阵](docs/screenshots/02_accounts.png) |
+
+| 内容资产 | 审核发布 |
+|---|---|
+| ![内容资产](docs/screenshots/03_assets.png) | ![审核发布](docs/screenshots/04_review.png) |
+
+| 热点选题 | 业务流 |
+|---|---|
+| ![热点选题](docs/screenshots/05_trends.png) | ![业务流](docs/screenshots/06_flow.png) |
+
+| 平台矩阵 | 知识库 |
+|---|---|
+| ![平台矩阵](docs/screenshots/07_platforms.png) | ![知识库](docs/screenshots/08_knowledge.png) |
+
+![系统状态](docs/screenshots/09_system.png)
 
 ---
 
