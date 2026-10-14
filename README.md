@@ -3,6 +3,7 @@
 ### Lighthouse Agent · Social Media Operations Workbench
 
 ![Build](https://img.shields.io/badge/Build-Ready-34d399?style=flat-square)
+![Release](https://img.shields.io/github/v/release/matou1118/lighthouse-agent-social-ops?style=flat-square&color=8b5cf6)
 ![Python](https://img.shields.io/badge/Python-3.10+-3ddcff?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-8b5cf6?style=flat-square)
 ![Local First](https://img.shields.io/badge/Local--First-数据不出机-f472b6?style=flat-square)
