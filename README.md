@@ -14,7 +14,7 @@
 > **原则：采集归 AI，成交归人。**
 
 🌐 **在线主页**：https://matou1118.github.io/lighthouse-agent-social-ops/
-
+🌐 **官网地址**：https://ttread.cn
 ---
 
 ## 界面预览
@@ -296,7 +296,7 @@ IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 如果您对本项目有任何疑问或建议，请访问我们的 GitHub 仓库提交 issue，我们将尽快回复。
 
 **仓库链接：** `https://github.com/your-org/lighthouse-agent-social-ops`
-**官网地址：** `https://www.ttread.cn`
+
 ---
 
 本项目由 **Lighthouse Agent 团队** 维护。
